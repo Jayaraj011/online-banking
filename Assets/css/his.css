@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   background: #ccc;
+    background-repeat: no-repeat;
+
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .transaction {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .transaction p {
+    margin: 0;
+  }
+  
+  .credit {
+    color: green;
+  }
+  
+  .debit {
+    color: red;
+  }
+  
